@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/instafollows/static/css/main.1f560c5a.css",
-    "main.js": "/instafollows/static/js/main.b2d0448e.js",
+    "main.css": "/instafollows/static/css/main.69715f92.css",
+    "main.js": "/instafollows/static/js/main.be402638.js",
     "static/js/453.5732842f.chunk.js": "/instafollows/static/js/453.5732842f.chunk.js",
     "index.html": "/instafollows/index.html",
-    "main.1f560c5a.css.map": "/instafollows/static/css/main.1f560c5a.css.map",
-    "main.b2d0448e.js.map": "/instafollows/static/js/main.b2d0448e.js.map",
+    "main.69715f92.css.map": "/instafollows/static/css/main.69715f92.css.map",
+    "main.be402638.js.map": "/instafollows/static/js/main.be402638.js.map",
     "453.5732842f.chunk.js.map": "/instafollows/static/js/453.5732842f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1f560c5a.css",
-    "static/js/main.b2d0448e.js"
+    "static/css/main.69715f92.css",
+    "static/js/main.be402638.js"
   ]
 }
