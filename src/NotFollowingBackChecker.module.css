@@ -87,6 +87,35 @@
     display: none;
   }
   
+  .uploadedFiles {
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+    margin-bottom: 30px;
+  }
+  
+  .fileCardContainer {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+  }
+  
+  .fileCard {
+    color: white;
+    font-weight: 500;
+    background-color: #3A86FF;
+    border-left: 5px solid  #ee2a7b;
+    padding: 0.75rem 1rem;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+    font-size: 0.95rem;
+    flex: 1 1 200px;
+    display: flex;
+    gap: 10px;
+    word-break: break-word;
+  }
+
+  
   .listsRow {
     display: flex;
     flex-wrap: wrap;
